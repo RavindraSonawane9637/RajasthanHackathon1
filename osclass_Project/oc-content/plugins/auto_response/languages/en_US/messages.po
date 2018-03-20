@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Calinbehtuk 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-06 12:55+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Puiu Calin\n"
+"Language-Team: Puiu Calin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: en\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: index.php:48
+msgid "Auto Response"
+msgstr ""
+
+#: index.php:58
+msgid "Plugin settings updated correctly"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Follow:"
+msgstr ""
+
+#: admin/settings.php:35
+msgid "Settings"
+msgstr ""
+
+#: admin/settings.php:41
+msgid "Send auto response email"
+msgstr ""
+
+#: admin/settings.php:48
+msgid "No"
+msgstr ""
+
+#: admin/settings.php:53
+msgid "Yes"
+msgstr ""
+
+#: admin/settings.php:57
+msgid "Save changes"
+msgstr ""
+
+#: admin/settings.php:63
+msgid "Info"
+msgstr ""
+
+#: admin/settings.php:65
+msgid ""
+"This plugin send an email to the user which use the contact page to send a "
+"message to administator, and in this email the user is informed that will be "
+"contacted in the short time by the administator of the site."
+msgstr ""
+
+#: admin/settings.php:67
+msgid ""
+"When the contact form is submitted, Auto Response plugin send an automatic "
+"email to the email entered in the email field, as automatic response to the "
+"question send to admin, the user is informed to not replay on this message."
+msgstr ""
+
+#: admin/settings.php:69
+msgid ""
+"You have to activate this plugin and set the option in the plugin settings "
+"to send or not the email to users."
+msgstr ""
+
+#: admin/settings.php:71
+msgid ""
+"You can change the email template under Email template tab/"
+"auto_response_message."
+msgstr ""
+
+#: include/Email.php:21
+msgid "visitor"
+msgstr ""
